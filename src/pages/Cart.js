@@ -10,7 +10,7 @@ const CartItem = ({ product, index, handleRemove }) => {
                 </div>
                 <div className="dtc v-top pl2">
                     <h1 className="f6 f5-ns fw6 lh-title black mv0">{product.title}</h1>
-                    <h2 className="f6 fw4 mt2 mb0 black-60">Josef Müller-Brockmann</h2>
+                    <h2 className="f6 fw4 mt2 mb0 black-60">Michael Jordan</h2>
                     <dl className="mt2 f6">
                         <dt className="clip">Price</dt>
                         <dd className="ml0">
