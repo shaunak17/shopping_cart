@@ -49,7 +49,7 @@ export default function Store() {
                 Total price:{" "}
                 {totalPrice?.toLocaleString("en", {
                     style: "currency",
-                    currency: "USD"
+                    currency: "INR"
                 })}
             </p>
             {items?.map((item, index) => (
